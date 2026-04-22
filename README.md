@@ -1,0 +1,2 @@
+# House-Price-Prediction-with-Feature-Engineering-and-Regression-Analysis
+This project predicts house prices using Linear Regression. The pipeline includes data cleaning, handling missing values, and one-hot encoding categorical variables like zoning and building type. Model performance is evaluated using R2 and MAE metrics, with feature scaling applied via StandardScaler to analyze its impact on prediction accuracy.
